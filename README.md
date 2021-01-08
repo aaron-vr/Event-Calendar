@@ -1,4 +1,4 @@
-# Sportradar-Calendar
+# Event Calendar
 Coding exercise to implement a calendar for sport events
 
 TECH-STACK: MySQL 10.4.14 connected to Apache 2.4 using XAMPP 3.2.4 and PHP 7.2.34
