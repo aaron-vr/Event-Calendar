@@ -1,7 +1,4 @@
 <?php
-/*GRANT INSERT, SELECT, UPDATE on sportradar.*
--> TO 'user'@'localhost'
--> IDENTIFIED BY '->password';*/
 
 /*database credentials required for db access, input below*/
 $username = "root";
