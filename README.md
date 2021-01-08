@@ -1,5 +1,6 @@
 # Sportradar-Calendar
 Coding exercise to implement a calendar for sport events
+
 TECH-STACK: MySQL 10.4.14 connected to the XAMPP 3.2.4 using Apache 2.4 and PHP 7.2.34
 
 The event calendar is made up of three relations (managed using MySQL) which communicate with the user via PHP and Apache. The front end interface - with nested html elements - although covering all the required functionalities, has no visual aspects apart from input forms and hyperlinks. 
