@@ -22,5 +22,3 @@ Things to be potentially implemented:
 
 2. A restriction to prevent past events to be added i.e. those where the event_date has a lower value than the current date; most likely a database trigger, although could be just as easily done in PHP. 
 
-3. Replace procedural statements with object-oriented
-
