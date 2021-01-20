@@ -12,7 +12,7 @@ at the top of the screen including some details in case the INSERT was unsuccess
       $data_missing = array();
 /*check for null imput for event date*/
       if(empty($_POST['event_date'])) {
-        $data_missing[] = 'Event Date';d<
+        $data_missing[] = 'Event Date';
       }
       else {
         $e_date = trim($_POST['event_date']);
